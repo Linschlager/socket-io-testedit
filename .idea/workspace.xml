@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78eb6ac9-3514-42da-88a1-938058968781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/socket-io-testedit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571664656762</updated>
-      <workItem from="1571664657968" duration="4233000" />
+      <workItem from="1571664657968" duration="5166000" />
     </task>
     <servers />
   </component>
@@ -87,6 +78,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="685" y="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1571665671962" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1571669701900">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1571669701900" />
     <state x="711" y="502" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1571665047851">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
